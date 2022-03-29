@@ -123,6 +123,15 @@ footer a{
     background: whitesmoke;
     border-radius: 4px;
     margin: 12px;
+	width: 90px;
+	text-align: center;
+}
+
+.footerbuttons{
+	display: flex;
+	width: 300px;
+	justify-content: center;
+	
 }
 /* thumbnail
 -------------------------------------------------------------*/
